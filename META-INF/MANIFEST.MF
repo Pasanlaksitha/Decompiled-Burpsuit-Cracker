@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Can-Retransform-Classes: true
+Main-Class: com.burpsuitcrack.burploaderkeygen.KeygenForm
+Premain-Class: com.burpsuitcrack.burploaderkeygen.Loader
+
