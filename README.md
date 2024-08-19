@@ -46,3 +46,6 @@ The code in this repository demonstrates how software protection mechanisms, lik
 - **Decryption**: Decrypting Base64 encoded data to manipulate license-related information.
 - **Patching**: Modifying runtime classes to alter the behavior of software like Burp Suite.
 - **License Generation**: Creating unauthorized licenses using embedded RSA keys.
+
+
+put issue for take down the repo 
